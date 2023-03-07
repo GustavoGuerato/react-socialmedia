@@ -11,6 +11,20 @@ export default function Rightbar() {
             today.
           </span>
         </div>
+        <img className="rightbarAd" src="assets/ad.png" alt="" />
+        <h4 className="rightbarTitle">Online Friends</h4>
+        <ul className="rightbarFriendsList">
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   );

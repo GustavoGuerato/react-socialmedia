@@ -23,6 +23,128 @@ export default function Rightbar() {
               />
               <span className="rightbarOnline"></span>
             </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img
+                className="rightbarProfileImg"
+                src="/assets/person/3.jpeg"
+                alt=""
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">John Marston</span>
           </li>
         </ul>
       </div>

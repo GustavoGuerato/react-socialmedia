@@ -27,6 +27,12 @@
   margin: 30px 0;
 }
 
+.rightbarTitle {
+  margin-bottom: 20px;
+  align-items: center;
+  display: flex;
+  margin-left: 20px;
+}
 .rightbarFriendList {
   padding: 0;
   margin: 0;
@@ -43,9 +49,25 @@
   margin-right: 10px;
   position: relative;
 }
+
 .rightbarProfileImg {
   width: 40px;
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.rightbarOnline {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: limegreen;
+  position: absolute;
+  top: -2px;
+  right: 0;
+  border: 2px solid white;
+}
+
+.rightbarUsername {
+  font-weight: 500;
 }
